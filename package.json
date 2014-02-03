@@ -1,0 +1,30 @@
+{
+  "name": "tstic",
+  "version": "0.0.0",
+  "main": "lib/tstic.js",
+  "description": "The best module ever.",
+  "homepage": "tstic",
+  "bugs": "https://github.com/barbaracassani/tstic/issues",
+  "author": {
+    "name": "Barbara Cassani",
+    "email": "barbarajacob.bj@gmail.com",
+    "url": "http://www.kitsch-en.net"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/barbaracassani/tstic"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.7.0",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt-contrib-watch": "~0.5.0",
+    "load-grunt-tasks": "~0.2.0",
+    "time-grunt": "~0.2.0",
+    "jshint-stylish": "~0.1.3"
+  }
+}
